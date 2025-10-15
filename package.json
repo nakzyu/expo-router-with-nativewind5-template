@@ -3,6 +3,7 @@
   "main": "expo-router/entry",
   "version": "1.0.0",
   "description": "Expo Router + NativeWind template",
+  "author": "nakzyu",
   "keywords": [
     "expo",
     "expo-router",
@@ -10,6 +11,10 @@
     "nativewind",
     "tailwind"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nakzyu/expo-router-with-nativewind5-template.git"
+  },
   "scripts": {
     "start": "expo start",
     "reset-project": "node ./scripts/reset-project.js",
