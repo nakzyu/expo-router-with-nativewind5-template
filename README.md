@@ -1,4 +1,4 @@
-# Expo Router & NativeWind5 Template
+# Expo Router with Nativewind - Template
 
 Clean `create-expo-app` + NativeWind v5. Nothing else.
 
