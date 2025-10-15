@@ -1,7 +1,7 @@
 {
   "name": "expo-router-with-nativewind5-template",
   "main": "expo-router/entry",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Expo Router + NativeWind template",
   "author": "nakzyu",
   "keywords": [

@@ -5,9 +5,7 @@ Clean `create-expo-app` + NativeWind v5. Nothing else.
 ## Usage
 
 ```bash
-npx create-expo-app@latest --template expo-router-nativewind-template MyApp
-cd MyApp
-npm start
+npx create-expo-app@latest --template expo-router-with-nativewind5-template MyApp
 ```
 
 ## Includes
